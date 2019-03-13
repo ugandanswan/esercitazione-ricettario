@@ -16,4 +16,4 @@ Questa repository GitHub ha una regola per cui non è possibile effettuare opera
 
 L'esercitazione può considerarsi conclusa quando le modifiche di tutti i partecipanti della repository sono state correttamente integrate nel branch `master`.
 
-*Nota:* se si svolge l'esercitazione individualmente, creare due branch di lavoro ed effettuare modifiche diverse su ogni branch.
+*Nota:* se si svolge l'esercitazione individualmente, è sufficiente effettuare le modifiche su un branch e creare la *pull request*.
